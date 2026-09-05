@@ -17,3 +17,9 @@ Supports formats such as `VRM`, `PMX`, `FBX`, `Live2D`, `glTF`, and more.
 </div>
 
 MOEW is a lightweight Windows application that lets you instantly preview 3D and 2D model assets directly from File Explorer, without launching editors like Unity or Blender.
+
+## Getting Started
+```ps1
+pnpm install
+pnpm tauri dev
+```
